@@ -564,7 +564,7 @@ def luna_about_callback(update, context):
             text=f"𝕔𝕣𝕒𝕫𝕪 𝕓𝕠𝕪"
                      f"𝙰𝚋𝚘𝚞𝚝 𝙼𝚢 𝙳𝚎𝚟𝚕𝚘𝚙𝚎𝚛♡︎"
                      f"𝙽𝚊𝚖𝚎:- 𝕔𝕣𝕒𝕫𝕪 𝕓𝕠𝕪"
-                     f"𝙿𝚛𝚘𝚏𝚒𝚕𝚎:- 𝙿𝚒𝚛𝚘 𝙱𝚘𝚒☻︎"
+                     f"𝙿𝚛𝚘𝚏𝚒𝚕𝚎:- 𝙿𝚒𝚛𝚘 𝙱𝚘𝚒☻︎", 
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
