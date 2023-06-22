@@ -543,7 +543,7 @@ def luna_about_callback(update, context):
             text=f"ℂℝ𝔸ℤ𝕐 𝔹𝕆𝕐"
                      f"𝙰𝚋𝚘𝚞𝚝 𝙼𝚢 𝙳𝚎𝚟♡︎"
                      f"𝙽𝚊𝚖𝚎:- 𝚌𝚛𝚊𝚣𝚢 𝚋𝚘𝚢✩"
-                     f"𝙿𝚛𝚘𝚏𝚒𝚕𝚎:- [𝙲𝚘𝚘𝚕 𝙱𝚘𝚒☻︎](https://t.me/crazy_1299)"
+                     f"𝙿𝚛𝚘𝚏𝚒𝚕𝚎:- [𝙲𝚘𝚘𝚕 𝙱𝚘𝚒☻︎](https://t.me/crazy_1299)", 
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
