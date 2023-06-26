@@ -591,7 +591,7 @@ def luna_about_callback(update, context):
                  [
                   [
                        InlineKeyboardButton(text="sᴇssɪᴏɴ", callback_data="luna_session"), 
-                       InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data=luna_), 
+                       InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="luna_notes"), 
                  ],
                 ],
             ),
