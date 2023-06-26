@@ -590,9 +590,8 @@ def luna_about_callback(update, context):
              reply_markup=InlineKeyboardMarkup(
                  [
                   [
-                       InlineKeyboardButton(text="sᴇssɪᴏɴ", callback_data="luna_session"), 
-                       InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="luna_notes"), 
-                 ],
+                       InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="luna_back"), 
+                  ],
                 ],
             ),
         )
