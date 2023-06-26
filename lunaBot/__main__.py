@@ -589,10 +589,13 @@ def luna_about_callback(update, context):
              disable_web_page_preview=True, 
              reply_markup=InlineKeyboardMarkup(
                  [
-                   [
+                  [
                        InlineKeyboardButton(text="sᴇssɪᴏɴ", callback_data="luna_session"), 
                        InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data=luna_), 
-
+                 ],
+                ],
+            ),
+        )
 
     elif query.data == "luna_puqi":
         query.message.edit_text(
