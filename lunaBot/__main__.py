@@ -584,7 +584,7 @@ def luna_about_callback(update, context):
             text=f" 🧚‍♂️ᴀɴɢᴇʟ ᴛᴇʟᴇᴛʜᴏɴ&ᴘʏʀᴏɢʀᴀᴍ sᴇssɪᴏɴ \n"
                  f"\n ᴍᴀᴋᴇ ᴀɴᴛɪʙᴀɴ ᴛᴇʟᴇᴛʜᴏɴ sᴇssɪᴏɴ&ᴘʏʀᴏɢʀᴀᴍ sᴇssɪᴏɴ. \n"
                  f"\n ᴄᴏᴍᴍᴀɴᴅs ~ \n"
-                 f"\n /generate  ғᴏʀ ᴍᴀᴋɪɴɢ ᴀɴᴛɪʙᴀɴ sᴇssɪᴏɴ. \n"
+                 f"\n /generate  ғᴏʀ ᴍᴀᴋɪɴɢ ᴀɴᴛɪʙᴀɴ sᴇssɪᴏɴ. \n", 
              parse_mode=ParseMode.MARKDOWN, 
              disable_web_page_preview=True, 
              reply_markup=InlineKeyboardMarkup(
