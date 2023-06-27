@@ -4,6 +4,7 @@ tzlocal
 lxml
 wget
 gtts
+python_ARQ
 faker
 beautifulsoup4
 requests
