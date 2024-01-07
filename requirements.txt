@@ -1,5 +1,8 @@
 future
 emoji
+httpcore-0.17.3
+httpx-0.24.1
+h11-0.14.0
 tzlocal
 lxml
 wget
@@ -71,7 +74,6 @@ motor==3.0.0
 cloudscraper
 pendulum
 pykeyboard
-aiohttp
 youtube_dl
 fuzzysearch
 Python_ARQ
